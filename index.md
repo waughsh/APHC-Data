@@ -4,7 +4,7 @@ layout: default
 
 This website hosts introductory material for teaching public health professionals how to interact
 with data including: data structure, database management systems, and
-programming for data manipulation, analysis, and visualization. Our aim is to make this course a self-guided tutorial to data management and processing to achieve parity within the Army Public Health Center. We encourage feedback, collaborative development and contributions by 
+programming for data manipulation, analysis, and visualization. Our aim is to make this course a self-guided tutorial to data management and processing to achieve parity, amoung employees, within the Army Public Health Center. We encourage feedback, collaborative development and contributions by 
 memebr inside and outside of APHC, with the hopes that this will lead to better training and resources 
 for everyone. 
 
