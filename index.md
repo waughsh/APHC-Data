@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This website hosts introductory material for teaching biologists how to interact
+This website hosts introductory material for teaching public health professionals how to interact
 with data including: data structure, database management systems, and
 programming for data manipulation, analysis, and visualization. It is designed
 to be used as a flipped university course and also to be useful for self-guided
