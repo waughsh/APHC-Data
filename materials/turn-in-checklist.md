@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignment Submission & Checklist
+title: Assignment Guidelines & Checklist
 ---
 
 <!--- All assignments should be submitted through [Canvas](http://ufl.instructure.com/)-->
