@@ -24,7 +24,7 @@ For Students
 : <a href="{{ site.baseurl}}/materials/datasets">
   <i class="fa fa-download fa-fw"></i> Datasets</a>
 
-For Instructors
+<!---For Instructors
 : <a href="{{ site.baseurl}}/readings">
   <i class="fa fa-book fa-fw"></i> Readings</a>
 : <a href="{{ site.baseurl}}/lectures">
@@ -36,4 +36,4 @@ For Instructors
 : <a href="{{ site.baseurl}}/exercises">
   <i class="fa fa-magic fa-fw"></i> Exercises</a>
 : <a href="{{ site.baseurl}}/docs">
-  <i class="fa fa-question-circle fa-fw"></i> Course Development Help</a>
+  <i class="fa fa-question-circle fa-fw"></i> Course Development Help</a> --->
