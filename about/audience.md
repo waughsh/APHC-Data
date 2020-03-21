@@ -4,9 +4,9 @@ title: Audience
 ---
 
 The long-term goal of this site is to help two large groups of people at APHC:
-1) Public Health professionals who desire the ability to learn how to augment data in a quick and effecient manner in a short amount of time ; and 2) Free-range
+1) Public Health Professionals who desire the ability to learn how to augment data in a quick and effecient manner in a short amount of time; and 2) Free-range
 learners, or professionals who aren't taking a formal class and are interested
-in learning online on their own time. We aim to start with prublic health professionals in a distance learning type environment then attempt to build on the material generated to make
+in learning online on their own time. We aim to start with students in a distance learning type environment then attempt to build on the material generated to make
 it maximally useful to the broader audience of public health professionals who want to
 learn how to use programming and database management systems. We are
 interested in helping folks who are complete beginners and those who
